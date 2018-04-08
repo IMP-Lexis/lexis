@@ -1,4 +1,4 @@
-# Welcome to GitHub Pages 
+# Welcome LEXIS 
 ## OVERVIEW
 
 
@@ -14,6 +14,17 @@ Establish a working group of specific individuals with exposure to the current r
 
 ## SPECIFICATIONS
 
+
+## MILESTONES
+
+
+
+## PROPONENTS
+
+Bruce Devlin | Mr MXF ltd.
+Jack Watts | Deluxe Entertainment Service Group
+Tomasz Witkowski | Sundog Media Toolkit, Fishtank Cloud
+Antoine Cozzi     Cana+
 
 ```markdown
 Syntax highlighted code block
