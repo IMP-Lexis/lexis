@@ -6,13 +6,13 @@ Establish a working group of specific individuals with exposure to the current r
 
 
 ### GOALS
-1.)To create a user accessible visual index of IMF and DCP vocabulary.
+        1.)To create a user accessible visual index of IMF and DCP vocabulary.
 
-2.)Provide a RESTful web service offering manufacturers and developers programmatic access to the statistical data and metadata disseminated by the data collection onboarding process.
+        2.)Provide a RESTful web service offering manufacturers and developers programmatic access to the statistical data and metadata disseminated by the data collection onboarding process.
 
-3.Curate a pool of 3rd party resources and tools.
+        3.Curate a pool of 3rd party resources and tools.
 
-###SPECIFICATIONS
+## SPECIFICATIONS
 
 
 ```markdown
