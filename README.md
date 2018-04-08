@@ -1,12 +1,19 @@
-## Welcome to GitHub Pages Hello
+# Welcome to GitHub Pages 
+## OVERVIEW
 
-You can use the [editor on GitHub](https://github.com/IMP-Lexis/lexis/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Establish a working group of specific individuals with exposure to the current real world implementation of IMF. Provide a sister/sub domain to the existing imfug.com domain, creating a knowledge base hosting current use cases, recommended practices derived from the statistical data and concepts associated with them.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### GOALS
+1.)To create a user accessible visual index of IMF and DCP vocabulary.
+
+2.)Provide a RESTful web service offering manufacturers and developers programmatic access to the statistical data and metadata disseminated by the data collection onboarding process.
+
+3.Curate a pool of 3rd party resources and tools.
+
+###SPECIFICATIONS
+
 
 ```markdown
 Syntax highlighted code block
