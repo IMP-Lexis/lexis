@@ -1,4 +1,4 @@
-# Welcome LEXIS 
+# Welcome to LEXIS 
 ## OVERVIEW
 
 
